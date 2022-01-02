@@ -183,3 +183,5 @@ var shop = function() {
 
 // start first game when page loads
 startGame();
+
+console.log(math.PI);
